@@ -1,0 +1,9 @@
+pip==21.0.1
+voila
+geemap
+requests==2.25.1
+idna==2.8
+bqplot
+earthengine-api>=0.1.230
+ipyleaflet<=0.13.3
+ipywidgets
