@@ -1,0 +1,7 @@
+pip==21.0.1
+voila
+voila-material
+geemap
+requests==2.25.1
+idna==2.8
+
