@@ -1,2 +1,2 @@
 %%bash
-earthengine authenticate --authorization-code=4/1AY0e-g6qmia_7pNqhAbWdKz-L8G2ZZAnwMH27G7qbbhlQmg3C7Wa3RksWPw
+earthengine authenticate --authorization-code=4/1AY0e-g6f2FbrzIY9NsAQ-6YPgXPpvElcbZyUrGF_szuClYNhFcUzJh_Dd4Q
