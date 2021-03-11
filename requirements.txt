@@ -1,7 +1,0 @@
-pip==21.0.1
-earthengine-api 
-voila
-geemap
-requests==2.25.1
-idna==2.8
-earthengine authenticate --authorization-code=4/1AY0e-g7zTDwt9-WDBf-sW3OKdDFqnpMCGzY1SVVqHJdnXGV-Z0_5iBp-tWQ
