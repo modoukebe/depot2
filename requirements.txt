@@ -4,3 +4,4 @@ voila
 geemap
 requests==2.25.1
 idna==2.8
+whitenoise
