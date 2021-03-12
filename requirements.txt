@@ -4,4 +4,3 @@ voila
 geemap
 requests==2.25.1
 idna==2.8
-authorization-code==4/1AY0e-g4twORWVWJTk-RK8DbMM4UwLH9ZREblV5fjpPgYyBbbqyfuf2f3MqE
